@@ -1,15 +1,15 @@
 student1 = {
-    "name": "Phakhamon Youngcharoon",
-    "age": 16,
+    "name": "eakphisaak tharapursawat",
+    "age": 17,
     "class": "2_2",
-    "phone": "0985876385"
+    "phone": "0256384951"
 }
 
 student2 = {
-    "name": "Srinamphueng Wongngam",
-    "age": 16,
+    "name": "Janthima Srangnok",
+    "age": 17,
     "class": "2_2",
-    "phone": "0851234567"
+    "phone": "0803074412"
 }
 
 class2_2 = [student1, student2]
